@@ -3,14 +3,18 @@
 </script>
 
 <template>
-    <div class="container-fluid">
+    <div class="wrapper">
       <Sidebar/>
-      <Header/>
+      <div>
+        <Header/>
+        <Main/>
+      </div>
     </div>
+      
 </template>
 
 <style scoped>
-.container-fluid {
+.wrapper {
   display: grid;
   grid-template-columns: 170px 1fr;
   margin: 0;
