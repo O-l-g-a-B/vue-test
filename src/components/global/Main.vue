@@ -18,6 +18,7 @@
         </button>
         <button class="main__button_gray">1,5 тонн <img class="main__button_gray-img" src="../../assets/close-o.svg"></button>
     </section>
+    <Table/>
   </main>
 </template>
 
@@ -34,7 +35,7 @@
     color: #58595B;
     margin: 15px 0;
     padding: 12px 65px 11px 23px;
-    font-weight: 500;
+    font-weight: bold;
 }
 
 .main__new-order-button-img {
@@ -74,7 +75,7 @@ main {
     width: 136px;
     height: 32px;
     margin-left: 17px;
-    padding-right: 45px;
+    padding-right: 35px;
 }
 .main__button_gray {
     color: #58595B;
