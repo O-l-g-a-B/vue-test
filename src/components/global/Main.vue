@@ -18,7 +18,7 @@
         </button>
         <button class="main__button_gray">1,5 тонн <img class="main__button_gray-img" src="../../assets/close-o.svg"></button>
     </section>
-    <Table/>
+    <Tabl/>
   </main>
 </template>
 

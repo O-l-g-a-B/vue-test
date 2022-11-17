@@ -21,7 +21,6 @@
 
 <style scoped>
  section {
-  height: 100vh;
   background-color: #F5F6FA;
 }
 a {
