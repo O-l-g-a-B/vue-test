@@ -6,7 +6,7 @@
   <main>
     <div class="main__new-order">
         <button class="main__new-order-button">
-            <img class="main__new-order-button-img" src="../../assets/plus.svg" alt="plus">
+            <img class="main__new-order-button-img" src="../assets/plus.svg" alt="plus">
             <span class="main__new-order-button-text">НОВЫЙ ЗАКАЗ</span>
         </button>
     </div>
@@ -16,7 +16,7 @@
         <button class="main__button">
         Фильтры
         </button>
-        <button class="main__button_gray">1,5 тонн <img class="main__button_gray-img" src="../../assets/close-o.svg"></button>
+        <button class="main__button_gray">1,5 тонн <img class="main__button_gray-img" src="../assets/close-o.svg"></button>
     </section>
     <Tabl/>
   </main>
@@ -51,7 +51,7 @@ main {
     border-radius: 5px;
     border:1px solid #58595B;
     margin: 31px 16px;
-    background: url(../../assets/search.svg) no-repeat;
+    background: url(../assets/search.svg) no-repeat;
     background-position: 95% 50%;
     padding-left: 10px;
 }
@@ -70,7 +70,7 @@ main {
     color: #58595B;
     border: 1px solid #58595B;
     border-radius: 16px;
-    background: url('../../assets/plus1.svg') no-repeat;
+    background: url('../assets/plus1.svg') no-repeat;
     background-position: 80% 50%;
     width: 136px;
     height: 32px;

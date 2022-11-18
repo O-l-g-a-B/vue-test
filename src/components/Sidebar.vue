@@ -1,15 +1,16 @@
 <script setup>
+
 </script>
 
 <template>
   <section>
-    <img src="../../assets/Logo (1).png" alt="logo"/>
+    <img src="../assets/Logo.svg" alt="logo"/>
     <ul>
       <li>
-        <a href="#" class="aside__button"><img class="aside__button-img" src="../../assets/Home.svg" alt="home"/> Заказы</a>
+        <a href="#" class="aside__button"><img class="aside__button-img" src="../assets/Home.svg" alt="home"/> Заказы</a>
       </li>
       <li>
-        <a href="#" class="aside__button"><img class="aside__button-img" src="../../assets/bag.svg" alt="bag"/> Профиль</a>
+        <a href="#" class="aside__button"><img class="aside__button-img" src="../assets/bag.svg" alt="bag"/> Профиль</a>
       </li>
     </ul>
     <p class="aside__text aside__text_top">
@@ -41,7 +42,7 @@ ul {
   cursor: pointer;
   background-color: #F5F6FA;
   color: #58595B;
-  padding-left: 20px;
+  padding-left: 5px;
   padding-top: 12px;
   margin-left: 10px;
 }

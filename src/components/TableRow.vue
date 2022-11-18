@@ -26,7 +26,6 @@
   border: 1px solid #E4E9EB;
   position: relative;
   display: grid;
-  column-gap: 10px;
   align-items: center;
   padding: 10px 40px;
 }

@@ -2,7 +2,7 @@
 import {ref} from 'vue'
 
 const tableHeads = ['Статус заказа', 'Дата подачи', 'Тоннаж', 'Вид ТС', 'Номер заказа', 'Маршрут', 'Исполнитель', 'GPS','Документы', 'Стоимость', 'Оплата']
-const tableSizeColumns = '135px 119px 80px 110px 119px 200px 110px 50px 95px 111px 150px'
+const tableSizeColumns = '134px 119px 80px 110px 90px 200px 110px 50px 95px 111px 150px'
 
 const orders = ref([
   {
