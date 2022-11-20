@@ -64,7 +64,7 @@ main {
     border-radius: 5px;
     border:1px solid #58595B;
     color: #E6E6E6;
-    padding: 10px;
+    padding: 0 10px;
 }
 .main__button {
     color: #58595B;
