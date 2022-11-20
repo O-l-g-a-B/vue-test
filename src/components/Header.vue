@@ -25,7 +25,6 @@
 .header__name {
     font-size: 24px;
     font-weight: 700;
-    
     color: #151A22;
 }
 .header__img {
